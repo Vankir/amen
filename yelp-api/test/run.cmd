@@ -1,0 +1,1 @@
+.\..\YelpAPI\bin\Debug\YelpAPI.exe --term="Restaurants" --location="Campbell, CA"

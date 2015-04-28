@@ -1,0 +1,1351 @@
+
+C:\Projects\amen\yelp-api\v2\csharp\test>.\..\YelpAPI\bin\Debug\YelpAPI.exe --term="Restaurants" --location="Campbell, CA" 
+Querying for Restaurants in Campbell, CA...
+-------------------------------------------
+Result for business willard-hicks-campbell found:
+{
+  "is_claimed": true,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/willard-hicks-campbell",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 117,
+  "name": "Willard Hicks",
+  "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/H5wdoLgODRkFcfzZ-AAH8w/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/willard-hicks-campbell",
+  "reviews": [
+    {
+      "rating": 4,
+      "excerpt": "Went here for a girl's night out on Thursday and I must say this restaurant is a hit! The service was amazing and the ambiance made for a great experience....",
+      "time_created": 1429502768,
+      "rating_image_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_image_small_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "user": {
+        "image_url": "http://s3-media4.fl.yelpassets.com/photo/H5wdoLgODRkFcfzZ-AAH8w/ms.jpg",
+        "id": "9ZEkitSPyVze92yTbaLqOw",
+        "name": "Jourdan A."
+      },
+      "rating_image_large_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id": "Jyxu8UMiSCsPe0RHPd82UA"
+    }
+  ],
+  "phone": "4083745000",
+  "snippet_text": "Went here for a girl's night out on Thursday and I must say this restaurant is a hit! The service was amazing and the ambiance made for a great experience....",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/VDf7rpy_vHpMaEnssKIU1w/ms.jpg",
+  "categories": [
+    [
+      "American (New)",
+      "newamerican"
+    ],
+    [
+      "Steakhouses",
+      "steak"
+    ]
+  ],
+  "display_phone": "+1-408-374-5000",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "willard-hicks-campbell",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "280 E Campbell Ave",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 8.0,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "280 E Campbell Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2869148,
+      "longitude": -121.9446259
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business naschmarkt-restaurant-campbell-2 found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/naschmarkt-restaurant-campbell-2",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 609,
+  "name": "Naschmarkt Restaurant",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/nV45f2MVW_AkB08qRXRKTA/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/naschmarkt-restaurant-campbell-2",
+  "menu_date_updated": 1418270585,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "It is hard to figure out where to start in reviewing this gem of a restaurant in Campbell.  I will start by saying that I have never been to Austria to have...",
+      "time_created": 1429122776,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/nV45f2MVW_AkB08qRXRKTA/ms.jpg",
+        "id": "GwA7ywduQ0LOIjFOmAhGNg",
+        "name": "Rebecca R."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "U4u9PWMqQnCM2UtZy-Q1Kw"
+    }
+  ],
+  "phone": "4083780335",
+  "snippet_text": "It is hard to figure out where to start in reviewing this gem of a restaurant in Campbell.  I will start by saying that I have never been to Austria to have...",
+  "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/A02IhBJPcXWBP4JCdl7DtQ/ms.jpg",
+  "categories": [
+    [
+      "Austrian",
+      "austrian"
+    ],
+    [
+      "German",
+      "german"
+    ],
+    [
+      "Modern European",
+      "modern_european"
+    ]
+  ],
+  "display_phone": "+1-408-378-0335",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "single_platform",
+  "id": "naschmarkt-restaurant-campbell-2",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "384 E Campbell Ave",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "384 E Campbell Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2868564,
+      "longitude": -121.942959
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business mayas-cafe-san-jose-2 found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/mayas-cafe-san-jose-2",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 245,
+  "name": "Maya's Cafe",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/lYdt5eAZ6oI8gXMgoncwNA/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/mayas-cafe-san-jose-2",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Found Maya's on Yelp a couple of years ago and it has become our go-to for mexican/honduran food. It is a small place and it is easy to miss if you are...",
+      "time_created": 1428709671,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media1.fl.yelpassets.com/photo/L9_8r53imeJkzuCFHp59Yg/ms.jpg",
+        "id": "ggyCHzakWIM_ntVjk5NvWg",
+        "name": "Rod L."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "2oBMhPgsia4F5ztZELLAcQ"
+    }
+  ],
+  "phone": "4085598700",
+  "snippet_text": "Tortillas are amazing!  Loved the rice, good texture and tasty.\n\nThe Aztec shrimp was sooooo good.  Crispy bacon wrapped shrimp with jalapeno.\n\nChile...",
+  "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/mVZL-L2ZlmgxqQipVvKBvQ/ms.jpg",
+  "categories": [
+    [
+      "Latin American",
+      "latin"
+    ]
+  ],
+  "display_phone": "+1-408-559-8700",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "id": "mayas-cafe-san-jose-2",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "2616 Union Ave",
+      "Cambrian Park",
+      "San Jose, CA 95124"
+    ],
+    "geo_accuracy": 9.5,
+    "neighborhoods": [
+      "Cambrian Park"
+    ],
+    "postal_code": "95124",
+    "country_code": "US",
+    "address": [
+      "2616 Union Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.274582,
+      "longitude": -121.93273
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business orchard-city-kitchen-campbell found:
+{
+  "is_claimed": true,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/orchard-city-kitchen-campbell",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 413,
+  "name": "Orchard City Kitchen",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/GXLdGxk-YY1-09dH56UZoQ/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/orchard-city-kitchen-campbell",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Great environment. Excellent drinks. I highly recommend their Long Island that takes three days to make. Could sip on it all night.\n\nAnd if you're a whiskey...",
+      "time_created": 1430204904,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/qrzmiGQgskvmMCxT2mTNpA/ms.jpg",
+        "id": "rNmic9bMalGfaTFNungqNw",
+        "name": "Arpit M."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "tRjy2aY82MVIQs-yCT9tIw"
+    }
+  ],
+  "phone": "4083405285",
+  "snippet_text": "We stayed around the corner from this place this weekend in the Pruneyard plaza so figured we would check it out for brunch.\n\nThe boyfriend and I were...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/f7xsGO167neoFEeNBnBoNg/ms.jpg",
+  "categories": [
+    [
+      "American (New)",
+      "newamerican"
+    ]
+  ],
+  "display_phone": "+1-408-340-5285",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "orchard-city-kitchen-campbell",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "1875 S Bascom Ave",
+      "Ste 190",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "1875 S Bascom Ave",
+      "Ste 190"
+    ],
+    "coordinate": {
+      "latitude": 37.2881899072058,
+      "longitude": -121.934845599789
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business kaizen-japanese-bar-and-grill-campbell found:
+{
+  "is_claimed": false,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/kaizen-japanese-bar-and-grill-campbell",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 73,
+  "name": "Kaizen Japanese Bar & Grill",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/oO5m_JlH8Nexd-jij9C5yQ/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/kaizen-japanese-bar-and-grill-campbell",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "I've been impressed with the atmosphere, service (thank you thomas) and presentation of all the food during both visits.\n\nthis place is very new, and they...",
+      "time_created": 1429226651,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/oO5m_JlH8Nexd-jij9C5yQ/ms.jpg",
+        "id": "eBO-oHpsPnPvfRCzrGagZA",
+        "name": "Mike C."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "Ga1pLIzINS7WbnCDV4y0Ww"
+    }
+  ],
+  "phone": "4083701600",
+  "snippet_text": "I've been impressed with the atmosphere, service (thank you thomas) and presentation of all the food during both visits.\n\nthis place is very new, and they...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/3OOH5hNNuvGGTmeP3I3AlQ/ms.jpg",
+  "categories": [
+    [
+      "Japanese",
+      "japanese"
+    ],
+    [
+      "Sushi Bars",
+      "sushi"
+    ],
+    [
+      "Tapas/Small Plates",
+      "tapasmallplates"
+    ]
+  ],
+  "display_phone": "+1-408-370-1600",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "kaizen-japanese-bar-and-grill-campbell",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "330 E Hamilton Ave",
+      "Ste 7",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "330 E Hamilton Ave",
+      "Ste 7"
+    ],
+    "coordinate": {
+      "latitude": 37.294011,
+      "longitude": -121.944426
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business kyusu-burmese-cuisine-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/kyusu-burmese-cuisine-san-jose",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 385,
+  "name": "Kyusu Burmese Cuisine",
+  "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/MO0LqQiRSzA9VqVwypNn_g/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/kyusu-burmese-cuisine-san-jose",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "With good friends, enjoying good food.\n\nTea leaf salad\nLani & Chris #2\n\nBayar Gyaw - yellow pea tempura\n\nSeik Tar Chet - goat stew\nLani & Chris #1\n\nKauk Swe...",
+      "time_created": 1425162835,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media4.fl.yelpassets.com/photo/MO0LqQiRSzA9VqVwypNn_g/ms.jpg",
+        "id": "hdgBsLczXzGgzY0pPZyxjg",
+        "name": "Eddo C."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "CH9LmvTHd5l7Su2ObePQaA"
+    }
+  ],
+  "phone": "4086820777",
+  "snippet_text": "With good friends, enjoying good food.\n\nTea leaf salad\nLani & Chris #2\n\nBayar Gyaw - yellow pea tempura\n\nSeik Tar Chet - goat stew\nLani & Chris #1\n\nKauk Swe...",
+  "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/hNF5goNgnNZguG5rzT4Psw/ms.jpg",
+  "categories": [
+    [
+      "Burmese",
+      "burmese"
+    ]
+  ],
+  "display_phone": "+1-408-682-0777",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "kyusu-burmese-cuisine-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "1312 Saratoga Ave",
+      "West San Jose",
+      "San Jose, CA 95129"
+    ],
+    "geo_accuracy": 9.5,
+    "neighborhoods": [
+      "West San Jose"
+    ],
+    "postal_code": "95129",
+    "country_code": "US",
+    "address": [
+      "1312 Saratoga Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.300242847355,
+      "longitude": -121.980311715438
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business sorelle-italian-bistro-campbell found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/sorelle-italian-bistro-campbell",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 187,
+  "name": "Sorelle Italian Bistro",
+  "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/uHL-jP7hHupJPx6KdAezIw/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/sorelle-italian-bistro-campbell",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Well how about that. Really good Italian food. \n\nIn the sleepy suburb of Campbell there is an Italian restaurant that has kick-ass food. I had the bolognese...",
+      "time_created": 1424899854,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media4.fl.yelpassets.com/photo/uHL-jP7hHupJPx6KdAezIw/ms.jpg",
+        "id": "cDAdfpWUkpP9BB_aW4qjbA",
+        "name": "Amy L."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "393drI5a_uUhuhZbwKmXMA"
+    }
+  ],
+  "phone": "4083741800",
+  "snippet_text": "Well how about that. Really good Italian food. \n\nIn the sleepy suburb of Campbell there is an Italian restaurant that has kick-ass food. I had the bolognese...",
+  "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/llAmutyWchBFrfbNqbabEg/ms.jpg",
+  "categories": [
+    [
+      "Italian",
+      "italian"
+    ]
+  ],
+  "display_phone": "+1-408-374-1800",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "id": "sorelle-italian-bistro-campbell",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "915 S San Tomas Aquino Rd",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "915 S San Tomas Aquino Rd"
+    ],
+    "coordinate": {
+      "latitude": 37.273802,
+      "longitude": -121.971816
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business a-slice-of-new-york-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/a-slice-of-new-york-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 1849,
+  "name": "A Slice of New York",
+  "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/2fCoMmFNof4d-Zmhmoqk6w/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/a-slice-of-new-york-san-jose",
+  "menu_date_updated": 1387630061,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "This place really is my favorite pizza place in the whole south bay. Real New York style pizza; crust is always thin and done right, sauce is not too...",
+      "time_created": 1428592120,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media3.fl.yelpassets.com/photo/2fCoMmFNof4d-Zmhmoqk6w/ms.jpg",
+        "id": "k52A-ou6zYrtb-V1nWCGJw",
+        "name": "Robert S."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "b28pWlXtfkGCv-6WYUA6wQ"
+    }
+  ],
+  "phone": "4082475423",
+  "snippet_text": "This place really is my favorite pizza place in the whole south bay. Real New York style pizza; crust is always thin and done right, sauce is not too...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/a-soLABsRew5Cyi-1U8QNw/ms.jpg",
+  "categories": [
+    [
+      "Pizza",
+      "pizza"
+    ],
+    [
+      "Vegetarian",
+      "vegetarian"
+    ]
+  ],
+  "display_phone": "+1-408-247-5423",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "single_platform",
+  "id": "a-slice-of-new-york-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "3443 Stevens Creek Blvd",
+      "West San Jose",
+      "San Jose, CA 95117"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "West San Jose"
+    ],
+    "postal_code": "95117",
+    "country_code": "US",
+    "address": [
+      "3443 Stevens Creek Blvd"
+    ],
+    "coordinate": {
+      "latitude": 37.3233005404472,
+      "longitude": -121.959028020501
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business milohas-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/milohas-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 135,
+  "name": "Milohas",
+  "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/5imrpHGoGrWx2ocGpgt9Cw/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/milohas-san-jose",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Milohas has opened my eyes to the vast delicious world of Colombian pastries! \n\nCame here one evening with my Colombian friend who vouched for the...",
+      "time_created": 1429289477,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media1.fl.yelpassets.com/photo/5imrpHGoGrWx2ocGpgt9Cw/ms.jpg",
+        "id": "9lU5zOPluc6Y8JZUL9nzsQ",
+        "name": "V C."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "bgYZI80qCxtjrJxNYkJdZA"
+    }
+  ],
+  "phone": "4087843736",
+  "snippet_text": "Milohas has opened my eyes to the vast delicious world of Colombian pastries! \n\nCame here one evening with my Colombian friend who vouched for the...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/w8BYoypkH_FNp6IDjwPT6Q/ms.jpg",
+  "categories": [
+    [
+      "Bakeries",
+      "bakeries"
+    ],
+    [
+      "Colombian",
+      "colombian"
+    ],
+    [
+      "Ice Cream & Frozen Yogurt",
+      "icecream"
+    ]
+  ],
+  "display_phone": "+1-408-784-3736",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "id": "milohas-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "4662 Meridian Ave",
+      "Cambrian Park",
+      "San Jose, CA 95118"
+    ],
+    "geo_accuracy": 9.5,
+    "neighborhoods": [
+      "Cambrian Park"
+    ],
+    "postal_code": "95118",
+    "country_code": "US",
+    "address": [
+      "4662 Meridian Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2557065,
+      "longitude": -121.8968314
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business tu-mero-mole-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/tu-mero-mole-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 521,
+  "name": "Tu Mero Mole",
+  "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/abyq26NRnCl-QbvRGDI6kw/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/tu-mero-mole-san-jose",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "WOW.  This place blew me away. I had both enchiladas (they'll let you do 1 of each on a plate) - the mole and suiza sauces were dynamite.  Everything from...",
+      "time_created": 1429930453,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media1.fl.yelpassets.com/photo/auNGArayWUEbYloXes-dEg/ms.jpg",
+        "id": "ud0CpILQYvUfdkvIkon-SQ",
+        "name": "Lindsey F."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "_QCTWRpCXJGW5w5IarWHeA"
+    }
+  ],
+  "phone": "4083699559",
+  "snippet_text": "Holy mole...really.  This is the best mole I have had...everrrr.  And the food is fresh and flavorful.  The service was pleasant and the restaurant, though...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/QNb1ffvoWAJIdF0hF5B5DA/ms.jpg",
+  "categories": [
+    [
+      "Mexican",
+      "mexican"
+    ]
+  ],
+  "display_phone": "+1-408-369-9559",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "id": "tu-mero-mole-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "2041 Woodard Rd",
+      "Cambrian Park",
+      "San Jose, CA 95124"
+    ],
+    "geo_accuracy": 9.5,
+    "neighborhoods": [
+      "Cambrian Park"
+    ],
+    "postal_code": "95124",
+    "country_code": "US",
+    "address": [
+      "2041 Woodard Rd"
+    ],
+    "coordinate": {
+      "latitude": 37.2604258099066,
+      "longitude": -121.932331323624
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business gulzaar-halal-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/gulzaar-halal-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 591,
+  "name": "Gulzaar Halal",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/nwwI6FYgz-bGNXWJ_ntpUw/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/gulzaar-halal-san-jose",
+  "menu_date_updated": 1427408861,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Park around the corner. Might need to make a few U turns because it's easy to pass this place!\nOrdered to-go: mixed plate (chicken tikka and beef skewer),...",
+      "time_created": 1428809592,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/nwwI6FYgz-bGNXWJ_ntpUw/ms.jpg",
+        "id": "mGImoQStAquOPAHH9JNCBg",
+        "name": "Scat C."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "39gHwhNffGOERYoNwC17nQ"
+    }
+  ],
+  "phone": "4082922786",
+  "snippet_text": "Park around the corner. Might need to make a few U turns because it's easy to pass this place!\nOrdered to-go: mixed plate (chicken tikka and beef skewer),...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/Ui_YmGjn4jYhhZkO8iHymw/ms.jpg",
+  "categories": [
+    [
+      "Middle Eastern",
+      "mideastern"
+    ],
+    [
+      "Indian",
+      "indpak"
+    ],
+    [
+      "Pakistani",
+      "pakistani"
+    ]
+  ],
+  "display_phone": "+1-408-292-2786",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "eat24",
+  "id": "gulzaar-halal-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "1880 W San Carlos St",
+      "Burbank",
+      "San Jose, CA 95128"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "Burbank"
+    ],
+    "postal_code": "95128",
+    "country_code": "US",
+    "address": [
+      "1880 W San Carlos St"
+    ],
+    "coordinate": {
+      "latitude": 37.323215,
+      "longitude": -121.927887
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business isfahan-kabob-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/isfahan-kabob-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 207,
+  "name": "Isfahan Kabob",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/1scbR-rT93MV69GnqyIT0A/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/isfahan-kabob-san-jose",
+  "menu_date_updated": 1416172481,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "I would eat here at least once a week if I lived closer! I really appreciate their consistency and customer service. 5-star food, service, and cleanliness...",
+      "time_created": 1428880586,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/1scbR-rT93MV69GnqyIT0A/ms.jpg",
+        "id": "M67-atcUrH88rklAv1Q4sw",
+        "name": "Jim Y."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "UHG4u7gbg3wpWdu2KhMzlw"
+    }
+  ],
+  "phone": "4085591555",
+  "snippet_text": "I would eat here at least once a week if I lived closer! I really appreciate their consistency and customer service. 5-star food, service, and cleanliness...",
+  "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/EhU2Ajc4SNjVolyR9pVi7A/ms.jpg",
+  "categories": [
+    [
+      "Persian/Iranian",
+      "persian"
+    ]
+  ],
+  "display_phone": "+1-408-559-1555",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "eat24",
+  "id": "isfahan-kabob-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "3014 Union Ave",
+      "Cambrian Park",
+      "San Jose, CA 95124"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "Cambrian Park"
+    ],
+    "postal_code": "95124",
+    "country_code": "US",
+    "address": [
+      "3014 Union Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2668,
+      "longitude": -121.931099
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business walia-ethiopian-cuisine-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/walia-ethiopian-cuisine-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 689,
+  "name": "Walia Ethiopian Cuisine",
+  "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/2FRIQ1-wgwIH61h2H9yT2g/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/walia-ethiopian-cuisine-san-jose",
+  "menu_date_updated": 1427372002,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "We went back to Walia for my friend's birthday a few days ago. And really all I can add to my experiences there is that as they've grown more popular, they...",
+      "time_created": 1425348851,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media1.fl.yelpassets.com/photo/2FRIQ1-wgwIH61h2H9yT2g/ms.jpg",
+        "id": "mDkdURvN4_rWCLnPKaqFQQ",
+        "name": "Jodi C."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "Pltn3SAIcWSamngeWhyylw"
+    }
+  ],
+  "phone": "4086455001",
+  "snippet_text": "We went back to Walia for my friend's birthday a few days ago. And really all I can add to my experiences there is that as they've grown more popular, they...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/5960bDqwTOmDb3-O-5jLBQ/ms.jpg",
+  "categories": [
+    [
+      "Ethiopian",
+      "ethiopian"
+    ],
+    [
+      "Gluten-Free",
+      "gluten_free"
+    ]
+  ],
+  "display_phone": "+1-408-645-5001",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "single_platform",
+  "id": "walia-ethiopian-cuisine-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "2208 Business Cir",
+      "Burbank",
+      "San Jose, CA 95128"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "Burbank"
+    ],
+    "postal_code": "95128",
+    "country_code": "US",
+    "address": [
+      "2208 Business Cir"
+    ],
+    "coordinate": {
+      "latitude": 37.3225136,
+      "longitude": -121.9321976
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business nicks-next-door-los-gatos found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/nicks-next-door-los-gatos",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 601,
+  "name": "Nick's Next Door",
+  "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/-eLNF8y4egCugTcqpIeS-g/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/nicks-next-door-los-gatos",
+  "menu_date_updated": 1402309739,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "We went to Nick's On Main a few years ago and had a fabulous meal there with the family. We wanted to try Nick's Next Door to see if anything changed with...",
+      "time_created": 1430097783,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media4.fl.yelpassets.com/photo/-eLNF8y4egCugTcqpIeS-g/ms.jpg",
+        "id": "_H1VvAk65d2z-2-XuLHkmw",
+        "name": "Jackie S."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "4NmyZ9SWkxgj_WibhGBhfw"
+    }
+  ],
+  "phone": "4084025053",
+  "snippet_text": "We went to Nick's On Main a few years ago and had a fabulous meal there with the family. We wanted to try Nick's Next Door to see if anything changed with...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/6PCm5DkpLCotd0mIoR-ngQ/ms.jpg",
+  "categories": [
+    [
+      "American (New)",
+      "newamerican"
+    ]
+  ],
+  "display_phone": "+1-408-402-5053",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "single_platform",
+  "id": "nicks-next-door-los-gatos",
+  "is_closed": false,
+  "location": {
+    "city": "Los Gatos",
+    "display_address": [
+      "11 College Ave",
+      "Los Gatos, CA 95030"
+    ],
+    "geo_accuracy": 8.0,
+    "postal_code": "95030",
+    "country_code": "US",
+    "address": [
+      "11 College Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.220802,
+      "longitude": -121.980637
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business big-e-cafe-san-jose found:
+{
+  "is_claimed": true,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/big-e-cafe-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 227,
+  "name": "Big E Cafe",
+  "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/3wdfyK4sBDDqjHqFZByriw/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/big-e-cafe-san-jose",
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "Empanadas (hearty & flavorful)\nCoffee\nBoth great here! Big selection \nNice place to sit & chill or grab & go!\nIndoor & outdoor seating.\n\nOnce you try it, it...",
+      "time_created": 1424025681,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media3.fl.yelpassets.com/photo/3wdfyK4sBDDqjHqFZByriw/ms.jpg",
+        "id": "WNRmgAmR_LR-ey8bOzJ8Og",
+        "name": "Azizi M."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "MwsFVSE13vKU-hLp-1ZzGA"
+    }
+  ],
+  "phone": "4089789040",
+  "snippet_text": "Empanadas (hearty & flavorful)\nCoffee\nBoth great here! Big selection \nNice place to sit & chill or grab & go!\nIndoor & outdoor seating.\n\nOnce you try it, it...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/jMRerw3Hdp6xGYvdTyzuXA/ms.jpg",
+  "categories": [
+    [
+      "Latin American",
+      "latin"
+    ],
+    [
+      "Coffee & Tea",
+      "coffee"
+    ],
+    [
+      "Peruvian",
+      "peruvian"
+    ]
+  ],
+  "display_phone": "+1-408-978-9040",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "id": "big-e-cafe-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "1683 Branham Ln",
+      "Cambrian Park",
+      "San Jose, CA 95118"
+    ],
+    "geo_accuracy": 9.5,
+    "neighborhoods": [
+      "Cambrian Park"
+    ],
+    "postal_code": "95118",
+    "country_code": "US",
+    "address": [
+      "1683 Branham Ln"
+    ],
+    "coordinate": {
+      "latitude": 37.2528086428985,
+      "longitude": -121.908845901489
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business spread-deli-and-bottles-campbell-2 found:
+{
+  "is_claimed": true,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/spread-deli-and-bottles-campbell-2",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 252,
+  "name": "Spread Deli & Bottles",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/FixUjKdqNIRKfF8ScFQb3A/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/spread-deli-and-bottles-campbell-2",
+  "menu_date_updated": 1425157528,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "I've been to Spread too many times and never left a review...\n\nA. If you get the big cheese himself Charlie to help you then know you are getting decades of...",
+      "time_created": 1424973101,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/FixUjKdqNIRKfF8ScFQb3A/ms.jpg",
+        "id": "0Fpn6qyFx3jfiUSqrESO3w",
+        "name": "Loki U."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "lwgRU3RTCm8aQ4_Xj_4YQQ"
+    }
+  ],
+  "phone": "4083405549",
+  "snippet_text": "I've been to Spread too many times and never left a review...\n\nA. If you get the big cheese himself Charlie to help you then know you are getting decades of...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/FSNASbwSmHVUxdzK7b-fAQ/ms.jpg",
+  "categories": [
+    [
+      "Delis",
+      "delis"
+    ]
+  ],
+  "display_phone": "+1-408-340-5549",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "menu_provider": "single_platform",
+  "id": "spread-deli-and-bottles-campbell-2",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "193 E Campbell Ave",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "193 E Campbell Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2871724,
+      "longitude": -121.9467834
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business santouka-san-jose-2 found:
+{
+  "is_claimed": false,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/santouka-san-jose-2",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 1988,
+  "name": "Santouka",
+  "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/6v8nzDn6mfahiTGxr9ahOQ/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/santouka-san-jose-2",
+  "reviews": [
+    {
+      "rating": 4,
+      "excerpt": "Good stuff. \n\nAmbiance, this place does not have, but they do have delicious noodles. \n\nThere are a variety of choices for broths and toppings. If you are a...",
+      "time_created": 1430151947,
+      "rating_image_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_image_small_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/doqedvC7gcRj5BHVGxJK2w/ms.jpg",
+        "id": "1Uy__YXHU2jLJriNCO1zXw",
+        "name": "Claire C."
+      },
+      "rating_image_large_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id": "NmWQL7ig-LxA6AD8FuwLoA"
+    }
+  ],
+  "phone": "4084461101",
+  "snippet_text": "My very authentic Japanese friend and I had a discussion about ramen in the bay area. I asked him what places in the bay area had authentic ramen. He...",
+  "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/kJgAyBuwUKZYwC72R-OD9w/ms.jpg",
+  "categories": [
+    [
+      "Ramen",
+      "ramen"
+    ]
+  ],
+  "display_phone": "+1-408-446-1101",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "santouka-san-jose-2",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "Mitsuwa Marketplace",
+      "675 Saratoga Ave",
+      "West San Jose",
+      "San Jose, CA 95129"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "West San Jose"
+    ],
+    "postal_code": "95129",
+    "country_code": "US",
+    "address": [
+      "Mitsuwa Marketplace",
+      "675 Saratoga Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.315125,
+      "longitude": -121.977661
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business brown-chicken-brown-cow-campbell found:
+{
+  "is_claimed": true,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/brown-chicken-brown-cow-campbell",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 568,
+  "name": "Brown Chicken Brown Cow",
+  "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/S04Wjtbv3pgV5zj9icS7jA/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/brown-chicken-brown-cow-campbell",
+  "reviews": [
+    {
+      "rating": 4,
+      "excerpt": "Grabbin lunch with my sister and she told me to pick a place for Monday lunch. Seeing the name of this place hooked me in. Knowing that it was organic was...",
+      "time_created": 1428529165,
+      "rating_image_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_image_small_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "user": {
+        "image_url": "http://s3-media4.fl.yelpassets.com/photo/S04Wjtbv3pgV5zj9icS7jA/ms.jpg",
+        "id": "EebIIcoDdqH6WF2COxFipg",
+        "name": "Leland S."
+      },
+      "rating_image_large_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id": "Vc7kyAuC_xtfclONSKmhaw"
+    }
+  ],
+  "phone": "4083405916",
+  "snippet_text": "Grabbin lunch with my sister and she told me to pick a place for Monday lunch. Seeing the name of this place hooked me in. Knowing that it was organic was...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/gtd1mbMiv2tmpPq8btMF8w/ms.jpg",
+  "categories": [
+    [
+      "Burgers",
+      "burgers"
+    ]
+  ],
+  "display_phone": "+1-408-340-5916",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "id": "brown-chicken-brown-cow-campbell",
+  "is_closed": false,
+  "location": {
+    "city": "Campbell",
+    "display_address": [
+      "397 E Campbell Ave",
+      "Campbell, CA 95008"
+    ],
+    "geo_accuracy": 9.5,
+    "postal_code": "95008",
+    "country_code": "US",
+    "address": [
+      "397 E Campbell Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.2870706,
+      "longitude": -121.942864
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business bertucellis-la-villa-gourmet-delicatessen-san-jose found:
+{
+  "is_claimed": false,
+  "rating": 4.5,
+  "mobile_url": "http://m.yelp.com/biz/bertucellis-la-villa-gourmet-delicatessen-san-jose",
+  "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+  "review_count": 659,
+  "name": "Bertucelli's La Villa Gourmet Delicatessen",
+  "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/GOGsVPiJRaqtIvZz-3T5LA/ms.jpg",
+  "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+  "url": "http://www.yelp.com/biz/bertucellis-la-villa-gourmet-delicatessen-san-jose",
+  "menu_date_updated": 1387603732,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "My favorite Italian delicatessen in California. There is a reason why lines are always out the door and that you must phone in orders days in advance.\n\nThe...",
+      "time_created": 1428367948,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media3.fl.yelpassets.com/photo/GOGsVPiJRaqtIvZz-3T5LA/ms.jpg",
+        "id": "4emBsjYDy5pMezm8jSQvLQ",
+        "name": "Ava I."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "8PZ0qvsyOPkWjwrzJxtgkg"
+    }
+  ],
+  "phone": "4082957851",
+  "snippet_text": "My favorite Italian delicatessen in California. There is a reason why lines are always out the door and that you must phone in orders days in advance.\n\nThe...",
+  "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/44cmqkDKt1V1eE4oJtsI0Q/ms.jpg",
+  "categories": [
+    [
+      "Delis",
+      "delis"
+    ],
+    [
+      "Sandwiches",
+      "sandwiches"
+    ]
+  ],
+  "display_phone": "+1-408-295-7851",
+  "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+  "menu_provider": "single_platform",
+  "id": "bertucellis-la-villa-gourmet-delicatessen-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "1319 Lincoln Ave",
+      "Willow Glen",
+      "San Jose, CA 95125"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "Willow Glen"
+    ],
+    "postal_code": "95125",
+    "country_code": "US",
+    "address": [
+      "1319 Lincoln Ave"
+    ],
+    "coordinate": {
+      "latitude": 37.304588,
+      "longitude": -121.898582
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
+-------------------------------------------
+Result for business falafels-drive-in-san-jose found:
+{
+  "is_claimed": false,
+  "rating": 4.0,
+  "mobile_url": "http://m.yelp.com/biz/falafels-drive-in-san-jose",
+  "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+  "review_count": 3378,
+  "name": "Falafel's Drive In",
+  "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/GdxCEyl3zH5R5TOkXGWT1g/ms.jpg",
+  "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+  "url": "http://www.yelp.com/biz/falafels-drive-in-san-jose",
+  "menu_date_updated": 1427342900,
+  "reviews": [
+    {
+      "rating": 5,
+      "excerpt": "The best falafal place of bay area. Run by a family since last 50+ years.\n\nEvery thing on the menu is delicious and the banana shake is not to miss.\n\nBeware...",
+      "time_created": 1429658252,
+      "rating_image_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "rating_image_small_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "user": {
+        "image_url": "http://s3-media2.fl.yelpassets.com/photo/GdxCEyl3zH5R5TOkXGWT1g/ms.jpg",
+        "id": "EGZvqJhyKwRmynhRnD1hPQ",
+        "name": "Sharan N."
+      },
+      "rating_image_large_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "h7QTxTuXynoayg7wd3gNyw"
+    }
+  ],
+  "phone": "4082947886",
+  "snippet_text": "The best falafal place of bay area. Run by a family since last 50+ years.\n\nEvery thing on the menu is delicious and the banana shake is not to miss.\n\nBeware...",
+  "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/GT2fLZ0Rk3vs2Ko45WON4g/ms.jpg",
+  "categories": [
+    [
+      "Falafel",
+      "falafel"
+    ]
+  ],
+  "display_phone": "+1-408-294-7886",
+  "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+  "menu_provider": "single_platform",
+  "id": "falafels-drive-in-san-jose",
+  "is_closed": false,
+  "location": {
+    "city": "San Jose",
+    "display_address": [
+      "2301 Stevens Creek Blvd",
+      "Rose Garden",
+      "San Jose, CA 95128"
+    ],
+    "geo_accuracy": 8.0,
+    "neighborhoods": [
+      "Rose Garden"
+    ],
+    "postal_code": "95128",
+    "country_code": "US",
+    "address": [
+      "2301 Stevens Creek Blvd"
+    ],
+    "coordinate": {
+      "latitude": 37.323654,
+      "longitude": -121.935028
+    },
+    "state_code": "CA"
+  }
+}
+-------------------------------------------
